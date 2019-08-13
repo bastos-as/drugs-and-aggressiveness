@@ -1,4 +1,4 @@
-# These are the functions I developed to create the plots for my dissertation
+# These are the functions I developed to create plots for my dissertation
 
 # Multiple scatterplot function (continuous x continuous)
 multiple.scatterPlot <- function(df = MAIN, cont_vars, guide_names = character(),
